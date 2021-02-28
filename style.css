@@ -1,0 +1,11 @@
+/**
+ * Theme Name:  Groups Forums Twenty Thirteen
+ * Description: A child theme for use with Groups Forums.
+ * Author:      itthinx
+ * Author URI:  http://www.itthinx.com
+ * Template:    twentythirteen
+ * Tags:        group, groups, groups forums, forums, topics, blog, one-column, two-columns, right-sidebar, custom-header, custom-menu, editor-style, featured-images, footer-widgets, microformats, post-formats, rtl-language-support, sticky-post, translation-ready, accessibility-ready
+ * Version:     1.0.0
+ */
+
+@import url("../twentythirteen/style.css");
